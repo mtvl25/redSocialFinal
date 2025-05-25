@@ -1,0 +1,22 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "type": "java",
+        "name": "Menu",
+        "request": "launch",
+        "mainClass": "app.Menu",
+        "projectName": "redSocialFinal_a04efe0"
+      },
+      {
+        "type": "java",
+        "name": "Menu",
+        "request": "launch",
+        "mainClass": "app.Menu",
+        "projectName": "socialNetworkCyclists_5c779201"
+      }
+    ]
+}
